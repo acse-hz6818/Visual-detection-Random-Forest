@@ -1,7 +1,13 @@
 # Visual-detection-Random-Forest
-========================================================================
-    CONSOLE APPLICATION : System Project Overview
-========================================================================
+
+
+## Environment
+
+* operating system: windows 10 64bit
+
+* Programming language: c++
+
+* Compiler: visual studio 2010
 
 AppWizard has created this System application for you.
 
