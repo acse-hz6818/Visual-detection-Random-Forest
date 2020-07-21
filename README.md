@@ -11,11 +11,20 @@
 
 ## User Instructions
 
+In the user interface, you can choose three options (using number):
+
+Number 1: implement feature extraction and get invariant moment
+
+Number 2: train the random forest model based on invariant moment
+
+Number 3: Batching test to obtain average classification accuracy
+
+Number 4: Test single image
 
 
 
 
-    CONSOLE APPLICATION : System Project Overview
+CONSOLE APPLICATION : System Project Overview
 
 
 AppWizard has created this System application for you.
